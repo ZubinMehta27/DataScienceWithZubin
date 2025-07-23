@@ -44,4 +44,4 @@ Each project is part of my learning process. If you spot mistakes or have improv
 
 **Zubin Mehta**  
 Aspiring Data Scientist | Self-Taught | Movie Buff  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username)
+🔗 [LinkedIn](https://www.linkedin.com/in/iamzubinmehta) • [GitHub](https://github.com/ZubinMehta27)
