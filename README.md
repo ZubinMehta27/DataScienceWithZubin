@@ -1,12 +1,12 @@
-# 🚀 DataScienceWithZubin
+# 🚀 Exploratory Data Analysis (EDA) on Netflix Movies and TV Dataset from Kaggle
 
-Welcome to my Data Science journey! This repository is a growing collection of self-learned projects focused on Python, data analysis, visualization, and machine learning.
+Welcome to my Data Science journey! This is a self-learned project focused on data analysis using Python, and some amateur visualizations.
 
 As someone coming from a non-technical background, I’m learning everything from scratch through hands-on practice — and sharing each step publicly to stay accountable, improve, and grow.
 
 ---
 
-## 📂 Projects
+## 📂 Project Information
 
 1. Netflix Movies & TV Shows - Exploratory Data Analysis (EDA)
 
