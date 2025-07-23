@@ -8,10 +8,10 @@ As someone coming from a non-technical background, I’m learning everything fro
 
 ## 📂 Projects
 
-### 1. [Netflix Movies & TV Shows - EDA](./netflix-eda)
-**Description:** Exploratory Data Analysis on a Kaggle dataset containing Netflix titles, genres, countries, and release years.  
-**Tools:** Pandas, NumPy, Seaborn, Matplotlib  
-🔗 [View Notebook](./netflix-eda/Netflix_EDA.ipynb)
+1. Netflix Movies & TV Shows - Exploratory Data Analysis (EDA)
+
+Description: Exploratory Data Analysis on a Kaggle dataset containing Netflix titles, genres, countries, and release years.
+Tools: Pandas, NumPy, Seaborn, Matplotlib
 
 ---
 
